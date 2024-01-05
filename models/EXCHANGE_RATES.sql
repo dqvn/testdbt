@@ -3,7 +3,7 @@ materialized="table"
 )}}
            
 select
-    "QUANG" as subject,
+    'QUANG' as subject,
     category,
     patient,
     _AIRBYTE_AB_ID,
